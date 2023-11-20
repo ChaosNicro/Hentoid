@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:x="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Hentoid</string>
     <string name="audio_plug1">yametee~~♡</string>
     <string name="audio_plug2">Stop, das ist das… falsche Loch~</string>
@@ -109,9 +109,9 @@
     <string name="off">Aus</string>
     <string name="select_all">Alle Auswählen</string>
     <string name="select_none">Auswahl aufheben</string>
-    <string name="goto_page">Gehe zu Seite...</string>
+    <string name="goto_page">Gehe zu Seite…</string>
     <string name="confirm">Bestätigen</string>
-    <string name="please_wait">Bitte warten...</string>
+    <string name="please_wait">Bitte warten…</string>
     <string name="groups">Gruppen</string>
     <string name="pause">Pause</string>
     <string name="stop">Anhalten</string>
@@ -146,9 +146,9 @@
     <string name="api29_migration_step1_select">Wähle Hentoid-Ordner</string>
     <string name="api29_migration_step1_select_external">Wähle externen Ordner</string>
     <string name="api29_migration_step2">Scanne Webseiten-Ordner</string>
-    <string name="api29_migration_step3_init">Scanne Bibliothek...</string>
+    <string name="api29_migration_step3_init">Scanne Bibliothek…</string>
     <string name="api29_migration_step3">Scanne Bibliothek (<x:g example="1" id="number">%1$d</x:g> / <x:g example="7" id="total">%2$d</x:g>)</string>
-    <string name="api29_migration_step4_init">Importiere Warteschlange...</string>
+    <string name="api29_migration_step4_init">Importiere Warteschlange…</string>
     <string name="api29_migration_select_folder">Bitte wähle einen bereits existierenden Hentoid-Ordner. Sein Standort wird angezeigt</string>
     <string name="api29_migration_allow_write">Bitte erteile Schreibrechte</string>
     <string name="menu_search">Suche</string>
@@ -198,13 +198,12 @@
     <string name="queue_preparing">Download wird vorbereitet</string>
     <string name="queue_dl">Lädt <x:g example="Cool H-Manga" id="book_name">%s</x:g></string>
     <string name="err_stats_title">Fehler-Statistik</string>
-    <string name="err_stats_help">Zeige detailierte Informationen über momentane Download-Fehler</string>
+    <string name="err_stats_help">Zeige detaillierte Informationen über momentane Download-Fehler</string>
     <string name="err_no_content">Buch existiert noch nicht</string>
     <string name="confirm_cancel_all">Gesamte Warteschlange abbrechen\\?</string>
     <string name="paused_no_internet">Kann nicht herunterladen - Kein Internet</string>
     <string name="paused_no_wifi">Kann nicht herunterladen - Kein WLAN</string>
     <string name="paused_no_storage">Herunterladen nicht möglich - zu wenig Speicherplatz (<x:g example="0 bytes" id="size_left_bytes">%s</x:g> übrig). Mach Platz frei oder ändere den Downloadprt.</string>
-    <string name="paused_no_storage">H</string>
     <string name="paused_no_dl_folder">Herunterladen nicht möglich - Kein Ort für Downloads gewählt, setze ihn in den Einstellungen</string>
     <string name="paused_dl_folder_not_found">Herunterladen nicht möglich - Downloadort nicht verfügbar, wähle in den Einstellungen einen anderen</string>
     <string name="paused_dl_folder_credentials">Herunterladen nicht möglich - Kann ncht auf Downloadort zugreifen, wähle ihn in den Einstellungen erneut und erteile Rechte</string>
@@ -243,7 +242,7 @@
     <string name="mode_stream">Streaming</string>
     <string name="import_downloads_title">Downloads importieren</string>
     <string name="import_streamed">Als gestreamte Bücher importieren</string>
-    <string name="importing_downloads">Importiere Downloads...</string>
+    <string name="importing_downloads">Importiere Downloads…</string>
     <string name="work_series">Serie: <x:g example="original" id="series">%s</x:g></string>
     <string name="work_artist">Künstler: <x:g example="hayao miyazaki" id="artist">%s</x:g></string>
     <string name="work_pages_queue">Seiten: %1$s%2$s</string>
@@ -270,8 +269,8 @@
     <string name="refresh_location_external">Externe Bibliothek</string>
     <string name="refresh_options_rename">Alle Ordner anhand der aktuellen Namens- und Längensbegrenzungsoptionen umbenennen</string>
     <string name="refresh_options_remove_placeholders">Platzhalter-Bücher von Metadaten-Imports löschen</string>
-    <string name="refresh_options_remove">Ordner löschen, die...</string>
-    <string name="refresh_options_remove_1">JSON-Datei ist nich vorhanden (Empfohlen)</string>
+    <string name="refresh_options_remove">Ordner löschen, die…</string>
+    <string name="refresh_options_remove_1">JSON-Datei ist nicht vorhanden (Empfohlen)</string>
     <string name="refresh_options_remove_2">Es wurde kein Bild heruntergeladen</string>
     <string name="refresh_options_remove_or">oder</string>
     <string name="delete_title">Alle löschen außer Favoriten</string>
@@ -280,7 +279,7 @@
     <string name="import_mode_add">Importierte hinzufügen</string>
     <string name="import_mode_replace">Alle Importierten ersetzen</string>
     <string name="import_select_file">Datei zum importieren auswählen</string>
-    <string name="checking_file">Prüfe Datei...</string>
+    <string name="checking_file">Prüfe Datei…</string>
     <string name="import_file_invalid">Datei <x:g example="metadata.json" id="filename">%s</x:g> ist ungültig</string>
     <string name="import_run">FÜHRE IMPORT AUS</string>
     <string name="dialog_prompt">Wähle einen Ordner aus</string>
